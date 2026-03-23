@@ -13,6 +13,3 @@ Inspiration came from industry tools like Password Monster, though my solution f
 
 ## Result: The user received relevant feedback on their password’s strength
 
-## Screenshot
-
-![App Screenshot](https://raw.githubusercontent.com/LeahyE2/Password_Strength_Tester/main/Screenshot-2025-06-25-120407-1024x509.png)
