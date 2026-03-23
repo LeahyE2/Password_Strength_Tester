@@ -1,5 +1,7 @@
 # Password Strength tester
 
+![App Screenshot](https://raw.githubusercontent.com/LeahyE2/Password_Strength_Tester/main/Screenshot-2025-06-25-120407-1024x509.png)
+
 ## Overview
 When exploring beginner Python projects, I built a Password Strength Tester that transformed theoretical concepts into practical skills. The script prompts users to enter a password, then rigorously checks the following.
 -Minimum length requirements
