@@ -11,4 +11,4 @@ Inspiration came from industry tools like Password Monster, though my solution f
 
 ## Result: The user received relevant feedback on their password’s strength
 
-(https://github.com/LeahyE2/Password_Strength_Tester//image.jpg?raw=true)
+(https://github.com/LeahyE2/Password_Strength_Tester/Screenshot-2025-06-25-120407-1024x509.png?raw=true)
